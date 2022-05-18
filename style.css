@@ -1,0 +1,27 @@
+body{
+    background-color: #E9ECEF;
+}
+nav li{
+    float:left;
+    list-style-type: none;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.nav{
+    background-color: black;
+}
+nav li a:hover{
+    text-decoration: none;
+    color: white;
+}
+nav li a{
+    color: lightgray;
+}
+article li{
+    list-style-position: inside;
+}
+.card-img-top{
+    width: 150px;
+    height: 200px;
+    margin: 5px auto;
+}
